@@ -6,6 +6,6 @@
 <img src="./AppComponent.png" alt=""/>
 
 </br>
-<em>integrate useLocate and useParams</em>
+<em>integrate useLocation and useParams</em>
 <img src="./DetailPage.png" alt=""/>
 
